@@ -49,7 +49,7 @@ scikit-learn
 
 How to Run
 
-Clone this repository:git clone https://github.com/your-username/Iris-KNN-Classification.git
+Clone this repository:git clone [https://github.com/your-username/Iris-KNN-Classification.git]
 
 
 Install required dependencies:pip install pandas numpy matplotlib seaborn scikit-learn jupyter
